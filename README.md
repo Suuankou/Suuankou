@@ -1,17 +1,14 @@
 Hello! 👋
 
-Delivering deliverables, creating value, leveraging synergies and meeting KPIs™ through PHP 8+, Laravel and .NET — works on my machine.
+Delivering value, leveraging synergies and meeting KPIs™ with PHP 8+, Laravel and .NET. Works on my machine.
 
-Driving innovation and optimizing workflows with Python, Flask, Java and Razor, maximizing stakeholder value through scalable backend architectures and disrupting the status quo with questionable architectural decisions.
+Driving innovation with Python, Flask, Java, Razor and Jinja. JVM-powered ambitions, BigDecimal precision and questionable architectural decisions.
 
-Empowering digital transformation through TypeScript, Vue, React, htmx and Tailwind CSS, delivering pixel-perfect experiences with HTML, CSS and a strategically excessive amount of utility classes.
+Empowering digital transformation with TypeScript, Vue, React, htmx and Tailwind CSS. Pixel-perfect enough.
 
-Aligning strategic objectives, streamlining deliverables and facilitating cross-functional synergies through Jinja and Razor, ensuring every solution is maintainable, scalable and sufficiently overengineered.
+A soft spot for legacy PHP and Perl. Always open to learning more Perl and exploring the wonderful world of legacy code.
 
-Leveraging Arch Linux and macOS to maximize developer productivity, embracing the terminal-driven ecosystem of Emacs (Evil) and an unreasonable number of configuration files.
+Optimizing developer productivity across Arch Linux and macOS, powered by Emacs (Evil), Vim and an unreasonable number of config files.
 
-Leveraging OpenAI technology to augment developer productivity, streamline content generation and unlock unprecedented levels of README optimization.
-
-Human creativity. Artificial intelligence. Questionable oversight. 🍴💣💥
-README proudly powered by OpenAI. 100% human-approved. Approximately 37% understood.
-Special thanks to Sam Altman and the OpenAI team for enabling this revolutionary leap in markup generation.
+This README was created with help from OpenAI. Human creativity, artificial intelligence, questionable oversight. 🍴💣💥
+Special thanks to Sam Altman and the OpenAI team. README proudly powered by OpenAI.
