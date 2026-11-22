@@ -15,4 +15,3 @@ Leveraging OpenAI technology to augment developer productivity, streamline conte
 Human creativity. Artificial intelligence. Questionable oversight. 🍴💣💥
 README proudly powered by OpenAI. 100% human-approved. Approximately 37% understood.
 Special thanks to Sam Altman and the OpenAI team for enabling this revolutionary leap in markup generation.
-──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
