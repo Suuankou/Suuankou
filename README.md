@@ -6,7 +6,7 @@ Driving innovation with Python, Flask, Java, Razor and Jinja. JVM-powered ambiti
 
 Empowering digital transformation with TypeScript, Vue, React, htmx and Tailwind CSS. Pixel-perfect enough.
 
-A soft spot for legacy PHP and Perl. Always open to learning more Perl and exploring the wonderful world of legacy code.
+A soft spot for legacy PHP and Perl.
 
 Optimizing developer productivity across Arch Linux and macOS, powered by Emacs (Evil), Vim and an unreasonable number of config files.
 
