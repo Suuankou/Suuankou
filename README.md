@@ -1,12 +1,14 @@
 Hello! 👋
 
-Delivering value, leveraging synergies and meeting KPIs™ with PHP 8+, Laravel, C# and .NET. Works on my machine.
+Delivering value, leveraging synergies and meeting KPIs™ with Laravel and .NET. Works on my machine.
 
-Driving innovation with Python, Flask, Java, Razor and Jinja. JVM-powered ambitions, BigDecimal precision and questionable architectural decisions.
+Driving innovation with C#, Java and Python. JVM-powered ambitions, BigDecimal precision and questionable architectural decisions.
 
-Empowering digital transformation with TypeScript, Vue, React, htmx and Tailwind CSS. Pixel-perfect enough.
+Empowering digital transformation with TypeScript, Vue, React, htmx and Tailwind CSS.
 
-A soft spot for legacy PHP and Perl. Always open to learning more Perl and exploring the wonderful world of legacy code.
+A lover of server-side rendering and templating. Pixel-perfect CSS.
+
+A soft spot for legacy PHP and Perl.
 
 Optimizing developer productivity across Arch Linux and macOS, powered by Emacs (Evil), Vim and an unreasonable number of config files.
 
