@@ -1,9 +1,4 @@
-# Focus
--  Java
--  Python
--  Golang
--  PHP
-<!---
-Brassbeard/Brassbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi
+## Building for the web
+### Fixing bugs and making more
+#### It worked yesterday
