@@ -1,4 +1,4 @@
 # Hello! 👋
-A soft spot for legacy PHP and Perl.
+I'm developing things!
 
-*README made with OpenAI assistance. Human-approved, 37% understood.*
+Soft spot for PHP🐘 and Perl🐪
